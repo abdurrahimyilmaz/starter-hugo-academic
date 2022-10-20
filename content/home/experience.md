@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 35
 
 title: Experience
 subtitle:
@@ -36,11 +36,20 @@ experience:
         * Modelling
         * Deploying
 
+  - title: Engineering Manager
+    company: ASIL
+    company_url: ''
+    company_logo: asil-logo
+    location: Istanbul, Turkey
+    date_start: '2019-12-01'
+    date_end: '2020-06-30'
+    description: Taught electronic engineering and researched semiconductor physics.
+
   - title: Research Assistant
     company: Yildiz Technical University 
     company_url: ''
     company_logo: ytu-logo
-    location: Ankara, Turkey
+    location: Istanbul, Turkey
     date_start: '2019-12-01'
     date_end: '2020-06-30'
     description: Taught electronic engineering and researched semiconductor physics.
@@ -54,14 +63,50 @@ experience:
     date_end: '2020-06-30'
     description: Taught electronic engineering and  researched semiconductor physics.
 
-  - title: Research Assistant
-    company: Yildiz Technical University 
+  - title: Intern
+    company: Baykar Defence 
     company_url: ''
-    company_logo: ytu-logo
+    company_logo: baykar-logo
+    location: Istanbul, Turkey
+    date_start: '2019-12-01'
+    date_end: '2020-06-30'
+    description: Taught electronic engineering and  researched semiconductor physics. 
+
+  - title: Intern
+    company: ASELSAN 
+    company_url: ''
+    company_logo: aselsan-logo
     location: Ankara, Turkey
     date_start: '2019-12-01'
     date_end: '2020-06-30'
+    description: Taught electronic engineering and  researched semiconductor physics.
+
+  - title: Intern
+    company: Yildiz Technical University 
+    company_url: ''
+    company_logo: ytu-logo
+    location: Istanbul, Turkey
+    date_start: '2019-12-01'
+    date_end: '2020-06-30'
+    description: Taught electronic engineering and  researched semiconductor physics. 
+
+  - title: Software Developer
+    company: Turkish Airlines Aviation Academy
+    company_url: ''
+    company_logo: thy-logo
+    location: Istanbul, Turkey
+    date_start: '2017-09-01'
+    date_end: '2018-06-30'
     description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Student Assistant
+    company: Yildiz Technical University 
+    company_url: ''
+    company_logo: ytu-logo
+    location: Istanbul, Turkey
+    date_start: '2017-06-01'
+    date_end: '2020-06-30'
+    description: Taught electronic engineering and researched semiconductor physics.  
 
 design:
   columns: '2'

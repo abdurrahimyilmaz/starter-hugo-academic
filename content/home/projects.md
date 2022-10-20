@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 33
 
 title: Projects
 subtitle: ''
@@ -28,9 +28,14 @@ content:
     - name: All
       tag: '*'
     - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+      tag: deeplearning
+    - name: Computer Vision
+      tag: computervision
+    - name: Microrobotics
+      tag: microrobot
+    - name: Others
+      tag: other
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
