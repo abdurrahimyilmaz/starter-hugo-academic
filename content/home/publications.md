@@ -80,5 +80,11 @@ S. Ekici, M. Ghorbani, and A. Kosar. A flexible cystoscope based on hydrodynamic
 6. [**A. Yilmaz**, A. A. Demircali, S. Kocaman, H. Uvet. Comparison of Deep Learning, and Traditional Machine
 Learning Techniques for Classification of Pap Smear Images. 2020.](https://arxiv.org/abs/2009.06366)
 
+<h3>Patent and Review Service</h3>
+
+1. National Patent, An Electro-Holographic Microscopy System that can Separate Cells and Microorganisms According to the Refractive Index, (No:2020/19536), 12/2020.
+
+2. Ad hoc reviewer for International Journal of Imaging Systems and Technology, 2020.
+
 </body>
 </html>

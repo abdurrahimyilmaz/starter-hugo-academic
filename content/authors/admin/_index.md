@@ -22,9 +22,9 @@ bio: My research interests include computer vision, deep learning, biomedical im
 
 # Interests to show in About widget
 interests:
-  - Computer Vision
-  - Deep Learning
   - Microrobotics
+  - Computer Vision
+  - Deep Learning  
 
 # Education to show in About widget
 education:
@@ -72,4 +72,4 @@ Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/yilmaz_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
