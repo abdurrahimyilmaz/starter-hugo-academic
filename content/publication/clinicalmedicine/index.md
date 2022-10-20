@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD:content/publication/clinicalmedicine/index.md
 title: "Comparison of Deep Learning and Traditional Machine Learning Techniques for Classification of Pap Smear Images"
 authors:
 - admin
@@ -7,6 +8,12 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2020-01-01T00:00:00Z"
+=======
+title: "An example preprint / working paper"
+authors:
+- admin
+date: "2019-04-07T00:00:00Z"
+>>>>>>> parent of ef0fde1 (alpha):content/publication/preprint/index.md
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -1,12 +1,12 @@
 ---
-title: "Comparison of Deep Learning and Traditional Machine Learning Techniques for Classification of Pap Smear Images"
+title: "An example journal article"
 authors:
 - admin
 - Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2020-01-01T00:00:00Z"
+date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -63,7 +63,6 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
-
 ---
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
