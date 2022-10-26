@@ -17,7 +17,7 @@ content:
   page_type: project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
+  filter_default: 2
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
@@ -28,13 +28,13 @@ content:
     - name: All
       tag: '*'
     - name: Microrobotics
-      tag: Microrobotics
-    - name: Deep Learning
-      tag: Deep Learning
+      tag: mr
+    - name: Computer Vision - AI
+      tag: cv
     - name: Optics
-      tag: Optics
+      tag: op
     - name: Others
-      tag: Others
+      tag: ot
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
