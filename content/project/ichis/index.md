@@ -1,6 +1,6 @@
 ---
-title: Incubator Compatible Holographic Imaging System
-summary: Objective - My Objective -
+title: Incubator Compatible Holographic Imaging System (Bachelor Thesis)
+summary: I developed an end2end 3D reconstruction algorithms for holograms. With my two collegaues, we demonstrated a small size digital holographic microscope. 
 tags:
 - op
 date: "2016-04-27T00:00:00Z"

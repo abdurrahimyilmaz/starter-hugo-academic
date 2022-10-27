@@ -1,6 +1,6 @@
 ---
 title: Lab Immersion Projects
-summary: Objective - My Objective -
+summary: I completed 5 computer vision tasks using C# with GUI such as simple object detection, car plate recognition with optical character recognition, real time virtual calculator.  
 tags:
 - cv
 date: "2016-04-27T00:00:00Z"
