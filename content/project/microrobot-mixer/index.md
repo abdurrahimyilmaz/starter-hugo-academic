@@ -1,6 +1,6 @@
 ---
 title: Microrobotic Mixer
-summary: Objective - My Objective -
+summary: I developed a microrobotic mixer with experimental setup using a microfluidic chip for nanoparticle mixing.
 tags:
 - mr
 date: "2016-04-27T00:00:00Z"
@@ -9,6 +9,6 @@ date: "2016-04-27T00:00:00Z"
 #external_link: https://example.org
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Experimental Setup
   focal_point: Smart
 ---

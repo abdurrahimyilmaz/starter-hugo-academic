@@ -30,21 +30,23 @@ div {text-align: justify;}
 
 <h3>Journals</h3>
 
-1. R. Varol, Z. Karavelioglu, S. Omeroglu, G. Aydemir, A. Karadag, H. E. Meco, G. C. Kocal, **A. Yilmaz**, M. E. Oruc, G. B. Esmer, Y. Basbinar, and H. Uvet. Holographic cell stiffness mapping using acoustic stimulation. **Accepted, Nature Communications**, 2022.
+1. **A. Yilmaz**, M. I. Hayiroglu, Serkan Salturk, Levent Pay, A. A. Demircali, R. Varol, O. Tezen, S. Eren, T. Cetin, A. I. Tekkesin, and H. Uvet. Machine learning approach on high risk treadmill exercise test to predict obstructive coronary artery disease by using p, qrs, and t waves’ features. **Accepted, Current Problems in Cardiology**, 2022.
 
-2. [**A. Yilmaz**, Z. Karavelioglu, G. Aydemir, A. A. Demircali, R. Varol, A. Kosar, and H. Uvet. Microfluidic wound
+2. R. Varol, Z. Karavelioglu, S. Omeroglu, G. Aydemir, A. Karadag, H. E. Meco, G. C. Kocal, **A. Yilmaz**, M. E. Oruc, G. B. Esmer, Y. Basbinar, and H. Uvet. Holographic cell stiffness mapping using acoustic stimulation. **Accepted, Nature Communications**, 2022.
+
+3. [**A. Yilmaz**, Z. Karavelioglu, G. Aydemir, A. A. Demircali, R. Varol, A. Kosar, and H. Uvet. Microfluidic wound
 scratching platform based on an untethered microrobot with magnetic actuation. **Sensors and Actuators B:
 Chemical**, 2022.](https://www.sciencedirect.com/science/article/abs/pii/S0925400522012862?via%3Dihub)
 
-3. [**A. Yilmaz**, F. Goktay, R. Varol, G. Gencoglan, and H. Uvet. Deep convolutional neural networks for
+4. [**A. Yilmaz**, F. Goktay, R. Varol, G. Gencoglan, and H. Uvet. Deep convolutional neural networks for
 onychomycosis detection using microscopic images with koh examination. **Mycoses**, 2022.](https://onlinelibrary.wiley.com/doi/abs/10.1111/myc.13498)
 
-4. [**A. Yilmaz**, G. Gencoglan, R. Varol, A. A. Demircali, M. Keshavarz, and H. Uvet. Mobileskin: Classification
+5. [**A. Yilmaz**, G. Gencoglan, R. Varol, A. A. Demircali, M. Keshavarz, and H. Uvet. Mobileskin: Classification
 of skin lesion images acquired using mobile phone-attached hand-held dermoscopes. **Journal of clinical medicine**, 2022.](https://www.mdpi.com/2077-0383/11/17/5102)
 
-5. [M. I. Ozmen, **A. Yilmaz**, C. Baykara, and O. A. Ozsoysal. Modelling fuel consumption and nox emission of a medium duty truck diesel engine with comparative time-series methods. **IEEE Access**, 2021.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9435333)
+6. [M. I. Ozmen, **A. Yilmaz**, C. Baykara, and O. A. Ozsoysal. Modelling fuel consumption and nox emission of a medium duty truck diesel engine with comparative time-series methods. **IEEE Access**, 2021.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9435333)
 
-6. [T. Abbasiasl, H. E. Sutova, S. Niazi, G. Celebi, Z. Karavelioglu, U. G. Kirabali, **A. Yilmaz**, H. Uvet, O. Kutlu,
+7. [T. Abbasiasl, H. E. Sutova, S. Niazi, G. Celebi, Z. Karavelioglu, U. G. Kirabali, **A. Yilmaz**, H. Uvet, O. Kutlu,
 S. Ekici, M. Ghorbani, and A. Kosar. A flexible cystoscope based on hydrodynamic cavitation for tumor tissue ablation. **IEEE Transactions on Biomedical Engineering**, 2021.](https://ieeexplore.ieee.org/document/9502580)
 
 <h3>Conference Proceedings</h3>

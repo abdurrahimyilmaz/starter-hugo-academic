@@ -9,6 +9,6 @@ date: "2022-04-27T00:00:00Z"
 #external_link: https://example.org
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Example Scenarios
   focal_point: Smart
 ---

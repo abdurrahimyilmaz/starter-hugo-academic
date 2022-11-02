@@ -1,6 +1,6 @@
 ---
 title: Flapping Wing UAV (Ornithopter)
-summary: Objective - My Objective -
+summary: I developed wireless communication of UAV using ESP8266 and NodemCU.
 tags:
 - ot
 date: "2016-04-27T00:00:00Z"
@@ -9,6 +9,6 @@ date: "2016-04-27T00:00:00Z"
 #external_link: https://example.org
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Ornithopter
   focal_point: Smart
 ---
